@@ -1,0 +1,32 @@
+.bigbox{
+   width: 1000px;
+    display: flex;
+     height: 500px;
+     border: 1px solid red;
+    background-image: linear-gradient(to bottom, green,red);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+   margin: auto;
+}
+
+.bigbox:hover{
+    flex-direction: row;
+    
+    
+}
+
+
+
+
+
+
+.container {
+   border: 1px solid black;
+    background: white;
+    width: 150px;
+    height: 150px;
+  
+        
+}
